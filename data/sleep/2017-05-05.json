@@ -1,0 +1,68 @@
+{
+    "sleep": [
+        {
+            "dateOfSleep": "2017-05-05", 
+            "duration": 18060000, 
+            "efficiency": 97, 
+            "endTime": "2017-05-05T04:57:30.000", 
+            "infoCode": 0, 
+            "isMainSleep": true, 
+            "levels": {
+                "data": [
+                    {
+                        "dateTime": "2017-05-04T23:56:00.000", 
+                        "level": "asleep", 
+                        "seconds": 60
+                    }, 
+                    {
+                        "dateTime": "2017-05-04T23:57:00.000", 
+                        "level": "restless", 
+                        "seconds": 420
+                    }, 
+                    {
+                        "dateTime": "2017-05-05T00:04:00.000", 
+                        "level": "asleep", 
+                        "seconds": 8160
+                    }, 
+                    {
+                        "dateTime": "2017-05-05T02:20:00.000", 
+                        "level": "restless", 
+                        "seconds": 60
+                    }, 
+                    {
+                        "dateTime": "2017-05-05T02:21:00.000", 
+                        "level": "asleep", 
+                        "seconds": 9360
+                    }
+                ], 
+                "summary": {
+                    "asleep": {
+                        "count": 0, 
+                        "minutes": 293
+                    }, 
+                    "awake": {
+                        "count": 0, 
+                        "minutes": 0
+                    }, 
+                    "restless": {
+                        "count": 2, 
+                        "minutes": 8
+                    }
+                }
+            }, 
+            "logId": 14563811477, 
+            "minutesAfterWakeup": 0, 
+            "minutesAsleep": 293, 
+            "minutesAwake": 8, 
+            "minutesToFallAsleep": 0, 
+            "startTime": "2017-05-04T23:56:00.000", 
+            "timeInBed": 301, 
+            "type": "classic"
+        }
+    ], 
+    "summary": {
+        "totalMinutesAsleep": 293, 
+        "totalSleepRecords": 1, 
+        "totalTimeInBed": 301
+    }
+}

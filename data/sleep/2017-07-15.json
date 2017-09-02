@@ -1,0 +1,269 @@
+{
+    "sleep": [
+        {
+            "dateOfSleep": "2017-07-15", 
+            "duration": 22440000, 
+            "efficiency": 92, 
+            "endTime": "2017-07-15T07:07:30.000", 
+            "infoCode": 0, 
+            "isMainSleep": true, 
+            "levels": {
+                "data": [
+                    {
+                        "dateTime": "2017-07-15T00:53:30.000", 
+                        "level": "wake", 
+                        "seconds": 480
+                    }, 
+                    {
+                        "dateTime": "2017-07-15T01:01:30.000", 
+                        "level": "light", 
+                        "seconds": 120
+                    }, 
+                    {
+                        "dateTime": "2017-07-15T01:03:30.000", 
+                        "level": "wake", 
+                        "seconds": 480
+                    }, 
+                    {
+                        "dateTime": "2017-07-15T01:11:30.000", 
+                        "level": "light", 
+                        "seconds": 2340
+                    }, 
+                    {
+                        "dateTime": "2017-07-15T01:50:30.000", 
+                        "level": "wake", 
+                        "seconds": 240
+                    }, 
+                    {
+                        "dateTime": "2017-07-15T01:54:30.000", 
+                        "level": "light", 
+                        "seconds": 810
+                    }, 
+                    {
+                        "dateTime": "2017-07-15T02:08:00.000", 
+                        "level": "rem", 
+                        "seconds": 390
+                    }, 
+                    {
+                        "dateTime": "2017-07-15T02:14:30.000", 
+                        "level": "wake", 
+                        "seconds": 360
+                    }, 
+                    {
+                        "dateTime": "2017-07-15T02:20:30.000", 
+                        "level": "rem", 
+                        "seconds": 1620
+                    }, 
+                    {
+                        "dateTime": "2017-07-15T02:47:30.000", 
+                        "level": "light", 
+                        "seconds": 3180
+                    }, 
+                    {
+                        "dateTime": "2017-07-15T03:40:30.000", 
+                        "level": "deep", 
+                        "seconds": 900
+                    }, 
+                    {
+                        "dateTime": "2017-07-15T03:55:30.000", 
+                        "level": "light", 
+                        "seconds": 450
+                    }, 
+                    {
+                        "dateTime": "2017-07-15T04:03:00.000", 
+                        "level": "deep", 
+                        "seconds": 1230
+                    }, 
+                    {
+                        "dateTime": "2017-07-15T04:23:30.000", 
+                        "level": "light", 
+                        "seconds": 150
+                    }, 
+                    {
+                        "dateTime": "2017-07-15T04:26:00.000", 
+                        "level": "rem", 
+                        "seconds": 1200
+                    }, 
+                    {
+                        "dateTime": "2017-07-15T04:46:00.000", 
+                        "level": "light", 
+                        "seconds": 420
+                    }, 
+                    {
+                        "dateTime": "2017-07-15T04:53:00.000", 
+                        "level": "rem", 
+                        "seconds": 300
+                    }, 
+                    {
+                        "dateTime": "2017-07-15T04:58:00.000", 
+                        "level": "wake", 
+                        "seconds": 660
+                    }, 
+                    {
+                        "dateTime": "2017-07-15T05:09:00.000", 
+                        "level": "light", 
+                        "seconds": 2310
+                    }, 
+                    {
+                        "dateTime": "2017-07-15T05:47:30.000", 
+                        "level": "deep", 
+                        "seconds": 360
+                    }, 
+                    {
+                        "dateTime": "2017-07-15T05:53:30.000", 
+                        "level": "light", 
+                        "seconds": 60
+                    }, 
+                    {
+                        "dateTime": "2017-07-15T05:54:30.000", 
+                        "level": "rem", 
+                        "seconds": 1350
+                    }, 
+                    {
+                        "dateTime": "2017-07-15T06:17:00.000", 
+                        "level": "light", 
+                        "seconds": 2100
+                    }, 
+                    {
+                        "dateTime": "2017-07-15T06:52:00.000", 
+                        "level": "deep", 
+                        "seconds": 450
+                    }, 
+                    {
+                        "dateTime": "2017-07-15T06:59:30.000", 
+                        "level": "light", 
+                        "seconds": 150
+                    }, 
+                    {
+                        "dateTime": "2017-07-15T07:02:00.000", 
+                        "level": "wake", 
+                        "seconds": 330
+                    }
+                ], 
+                "shortData": [
+                    {
+                        "dateTime": "2017-07-15T01:32:00.000", 
+                        "level": "wake", 
+                        "seconds": 60
+                    }, 
+                    {
+                        "dateTime": "2017-07-15T01:57:00.000", 
+                        "level": "wake", 
+                        "seconds": 30
+                    }, 
+                    {
+                        "dateTime": "2017-07-15T02:05:00.000", 
+                        "level": "wake", 
+                        "seconds": 60
+                    }, 
+                    {
+                        "dateTime": "2017-07-15T03:05:00.000", 
+                        "level": "wake", 
+                        "seconds": 30
+                    }, 
+                    {
+                        "dateTime": "2017-07-15T03:07:00.000", 
+                        "level": "wake", 
+                        "seconds": 60
+                    }, 
+                    {
+                        "dateTime": "2017-07-15T03:22:00.000", 
+                        "level": "wake", 
+                        "seconds": 30
+                    }, 
+                    {
+                        "dateTime": "2017-07-15T03:24:30.000", 
+                        "level": "wake", 
+                        "seconds": 30
+                    }, 
+                    {
+                        "dateTime": "2017-07-15T03:28:00.000", 
+                        "level": "wake", 
+                        "seconds": 30
+                    }, 
+                    {
+                        "dateTime": "2017-07-15T04:23:00.000", 
+                        "level": "wake", 
+                        "seconds": 30
+                    }, 
+                    {
+                        "dateTime": "2017-07-15T04:37:30.000", 
+                        "level": "wake", 
+                        "seconds": 30
+                    }, 
+                    {
+                        "dateTime": "2017-07-15T04:50:00.000", 
+                        "level": "wake", 
+                        "seconds": 30
+                    }, 
+                    {
+                        "dateTime": "2017-07-15T05:17:30.000", 
+                        "level": "wake", 
+                        "seconds": 90
+                    }, 
+                    {
+                        "dateTime": "2017-07-15T05:22:00.000", 
+                        "level": "wake", 
+                        "seconds": 30
+                    }, 
+                    {
+                        "dateTime": "2017-07-15T05:26:00.000", 
+                        "level": "wake", 
+                        "seconds": 30
+                    }, 
+                    {
+                        "dateTime": "2017-07-15T06:17:00.000", 
+                        "level": "wake", 
+                        "seconds": 150
+                    }, 
+                    {
+                        "dateTime": "2017-07-15T06:58:00.000", 
+                        "level": "wake", 
+                        "seconds": 90
+                    }
+                ], 
+                "summary": {
+                    "deep": {
+                        "count": 4, 
+                        "minutes": 47, 
+                        "thirtyDayAvgMinutes": 37
+                    }, 
+                    "light": {
+                        "count": 23, 
+                        "minutes": 190, 
+                        "thirtyDayAvgMinutes": 320
+                    }, 
+                    "rem": {
+                        "count": 6, 
+                        "minutes": 81, 
+                        "thirtyDayAvgMinutes": 93
+                    }, 
+                    "wake": {
+                        "count": 22, 
+                        "minutes": 56, 
+                        "thirtyDayAvgMinutes": 61
+                    }
+                }
+            }, 
+            "logId": 15233755663, 
+            "minutesAfterWakeup": 6, 
+            "minutesAsleep": 318, 
+            "minutesAwake": 56, 
+            "minutesToFallAsleep": 0, 
+            "startTime": "2017-07-15T00:53:30.000", 
+            "timeInBed": 374, 
+            "type": "stages"
+        }
+    ], 
+    "summary": {
+        "stages": {
+            "deep": 50, 
+            "light": 283, 
+            "rem": 78, 
+            "wake": 53
+        }, 
+        "totalMinutesAsleep": 318, 
+        "totalSleepRecords": 1, 
+        "totalTimeInBed": 374
+    }
+}

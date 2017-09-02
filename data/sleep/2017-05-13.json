@@ -1,0 +1,103 @@
+{
+    "sleep": [
+        {
+            "dateOfSleep": "2017-05-13", 
+            "duration": 29700000, 
+            "efficiency": 98, 
+            "endTime": "2017-05-13T06:15:30.000", 
+            "infoCode": 0, 
+            "isMainSleep": true, 
+            "levels": {
+                "data": [
+                    {
+                        "dateTime": "2017-05-12T22:00:00.000", 
+                        "level": "awake", 
+                        "seconds": 240
+                    }, 
+                    {
+                        "dateTime": "2017-05-12T22:04:00.000", 
+                        "level": "asleep", 
+                        "seconds": 3060
+                    }, 
+                    {
+                        "dateTime": "2017-05-12T22:55:00.000", 
+                        "level": "restless", 
+                        "seconds": 60
+                    }, 
+                    {
+                        "dateTime": "2017-05-12T22:56:00.000", 
+                        "level": "asleep", 
+                        "seconds": 1380
+                    }, 
+                    {
+                        "dateTime": "2017-05-12T23:19:00.000", 
+                        "level": "restless", 
+                        "seconds": 60
+                    }, 
+                    {
+                        "dateTime": "2017-05-12T23:20:00.000", 
+                        "level": "asleep", 
+                        "seconds": 9180
+                    }, 
+                    {
+                        "dateTime": "2017-05-13T01:53:00.000", 
+                        "level": "restless", 
+                        "seconds": 60
+                    }, 
+                    {
+                        "dateTime": "2017-05-13T01:54:00.000", 
+                        "level": "asleep", 
+                        "seconds": 5580
+                    }, 
+                    {
+                        "dateTime": "2017-05-13T03:27:00.000", 
+                        "level": "restless", 
+                        "seconds": 120
+                    }, 
+                    {
+                        "dateTime": "2017-05-13T03:29:00.000", 
+                        "level": "asleep", 
+                        "seconds": 120
+                    }, 
+                    {
+                        "dateTime": "2017-05-13T03:31:00.000", 
+                        "level": "restless", 
+                        "seconds": 120
+                    }, 
+                    {
+                        "dateTime": "2017-05-13T03:33:00.000", 
+                        "level": "asleep", 
+                        "seconds": 9720
+                    }
+                ], 
+                "summary": {
+                    "asleep": {
+                        "count": 0, 
+                        "minutes": 484
+                    }, 
+                    "awake": {
+                        "count": 1, 
+                        "minutes": 4
+                    }, 
+                    "restless": {
+                        "count": 5, 
+                        "minutes": 7
+                    }
+                }
+            }, 
+            "logId": 14637552169, 
+            "minutesAfterWakeup": 0, 
+            "minutesAsleep": 484, 
+            "minutesAwake": 11, 
+            "minutesToFallAsleep": 0, 
+            "startTime": "2017-05-12T22:00:00.000", 
+            "timeInBed": 495, 
+            "type": "classic"
+        }
+    ], 
+    "summary": {
+        "totalMinutesAsleep": 484, 
+        "totalSleepRecords": 1, 
+        "totalTimeInBed": 495
+    }
+}

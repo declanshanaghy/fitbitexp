@@ -1,0 +1,118 @@
+{
+    "sleep": [
+        {
+            "dateOfSleep": "2017-02-22", 
+            "duration": 22680000, 
+            "efficiency": 96, 
+            "endTime": "2017-02-22T04:52:30.000", 
+            "infoCode": 0, 
+            "isMainSleep": true, 
+            "levels": {
+                "data": [
+                    {
+                        "dateTime": "2017-02-21T22:34:00.000", 
+                        "level": "awake", 
+                        "seconds": 360
+                    }, 
+                    {
+                        "dateTime": "2017-02-21T22:40:00.000", 
+                        "level": "restless", 
+                        "seconds": 60
+                    }, 
+                    {
+                        "dateTime": "2017-02-21T22:41:00.000", 
+                        "level": "asleep", 
+                        "seconds": 180
+                    }, 
+                    {
+                        "dateTime": "2017-02-21T22:44:00.000", 
+                        "level": "restless", 
+                        "seconds": 60
+                    }, 
+                    {
+                        "dateTime": "2017-02-21T22:45:00.000", 
+                        "level": "asleep", 
+                        "seconds": 4080
+                    }, 
+                    {
+                        "dateTime": "2017-02-21T23:53:00.000", 
+                        "level": "restless", 
+                        "seconds": 60
+                    }, 
+                    {
+                        "dateTime": "2017-02-21T23:54:00.000", 
+                        "level": "asleep", 
+                        "seconds": 1380
+                    }, 
+                    {
+                        "dateTime": "2017-02-22T00:17:00.000", 
+                        "level": "restless", 
+                        "seconds": 60
+                    }, 
+                    {
+                        "dateTime": "2017-02-22T00:18:00.000", 
+                        "level": "asleep", 
+                        "seconds": 1680
+                    }, 
+                    {
+                        "dateTime": "2017-02-22T00:46:00.000", 
+                        "level": "restless", 
+                        "seconds": 120
+                    }, 
+                    {
+                        "dateTime": "2017-02-22T00:48:00.000", 
+                        "level": "asleep", 
+                        "seconds": 120
+                    }, 
+                    {
+                        "dateTime": "2017-02-22T00:50:00.000", 
+                        "level": "restless", 
+                        "seconds": 120
+                    }, 
+                    {
+                        "dateTime": "2017-02-22T00:52:00.000", 
+                        "level": "asleep", 
+                        "seconds": 11400
+                    }, 
+                    {
+                        "dateTime": "2017-02-22T04:02:00.000", 
+                        "level": "restless", 
+                        "seconds": 60
+                    }, 
+                    {
+                        "dateTime": "2017-02-22T04:03:00.000", 
+                        "level": "asleep", 
+                        "seconds": 2940
+                    }
+                ], 
+                "summary": {
+                    "asleep": {
+                        "count": 0, 
+                        "minutes": 363
+                    }, 
+                    "awake": {
+                        "count": 1, 
+                        "minutes": 6
+                    }, 
+                    "restless": {
+                        "count": 7, 
+                        "minutes": 9
+                    }
+                }
+            }, 
+            "logId": 13868872839, 
+            "minutesAfterWakeup": 0, 
+            "minutesAsleep": 363, 
+            "minutesAwake": 15, 
+            "minutesToFallAsleep": 0, 
+            "startTime": "2017-02-21T22:34:00.000", 
+            "timeInBed": 378, 
+            "type": "classic"
+        }
+    ], 
+    "summary": {
+        "totalMinutesAsleep": 363, 
+        "totalSleepRecords": 1, 
+        "totalTimeInBed": 378
+    }
+}

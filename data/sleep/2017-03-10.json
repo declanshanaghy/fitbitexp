@@ -1,0 +1,63 @@
+{
+    "sleep": [
+        {
+            "dateOfSleep": "2017-03-10", 
+            "duration": 23820000, 
+            "efficiency": 99, 
+            "endTime": "2017-03-10T04:49:30.000", 
+            "infoCode": 0, 
+            "isMainSleep": true, 
+            "levels": {
+                "data": [
+                    {
+                        "dateTime": "2017-03-09T22:12:00.000", 
+                        "level": "awake", 
+                        "seconds": 180
+                    }, 
+                    {
+                        "dateTime": "2017-03-09T22:15:00.000", 
+                        "level": "asleep", 
+                        "seconds": 2100
+                    }, 
+                    {
+                        "dateTime": "2017-03-09T22:50:00.000", 
+                        "level": "restless", 
+                        "seconds": 60
+                    }, 
+                    {
+                        "dateTime": "2017-03-09T22:51:00.000", 
+                        "level": "asleep", 
+                        "seconds": 21480
+                    }
+                ], 
+                "summary": {
+                    "asleep": {
+                        "count": 0, 
+                        "minutes": 393
+                    }, 
+                    "awake": {
+                        "count": 1, 
+                        "minutes": 3
+                    }, 
+                    "restless": {
+                        "count": 1, 
+                        "minutes": 1
+                    }
+                }
+            }, 
+            "logId": 14026572799, 
+            "minutesAfterWakeup": 0, 
+            "minutesAsleep": 393, 
+            "minutesAwake": 4, 
+            "minutesToFallAsleep": 0, 
+            "startTime": "2017-03-09T22:12:00.000", 
+            "timeInBed": 397, 
+            "type": "classic"
+        }
+    ], 
+    "summary": {
+        "totalMinutesAsleep": 393, 
+        "totalSleepRecords": 1, 
+        "totalTimeInBed": 397
+    }
+}

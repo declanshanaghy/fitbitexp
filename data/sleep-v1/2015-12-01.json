@@ -1,0 +1,66 @@
+{
+    "sleep": [
+        {
+            "awakeCount": 1, 
+            "awakeDuration": 1, 
+            "awakeningsCount": 2, 
+            "dateOfSleep": "2015-12-01", 
+            "duration": 540000, 
+            "efficiency": 0, 
+            "endTime": "2015-12-01T05:39:11.000", 
+            "isMainSleep": true, 
+            "logId": 10279192007, 
+            "minuteData": [
+                {
+                    "dateTime": "05:30:08", 
+                    "value": "3"
+                }, 
+                {
+                    "dateTime": "05:31:08", 
+                    "value": "2"
+                }, 
+                {
+                    "dateTime": "05:32:08", 
+                    "value": "2"
+                }, 
+                {
+                    "dateTime": "05:33:08", 
+                    "value": "2"
+                }, 
+                {
+                    "dateTime": "05:34:08", 
+                    "value": "2"
+                }, 
+                {
+                    "dateTime": "05:35:08", 
+                    "value": "2"
+                }, 
+                {
+                    "dateTime": "05:36:08", 
+                    "value": "2"
+                }, 
+                {
+                    "dateTime": "05:37:08", 
+                    "value": "2"
+                }, 
+                {
+                    "dateTime": "05:38:08", 
+                    "value": "2"
+                }
+            ], 
+            "minutesAfterWakeup": 0, 
+            "minutesAsleep": 0, 
+            "minutesAwake": 0, 
+            "minutesToFallAsleep": 9, 
+            "restlessCount": 1, 
+            "restlessDuration": 8, 
+            "startTime": "2015-12-01T05:30:08.000", 
+            "timeInBed": 9
+        }
+    ], 
+    "summary": {
+        "totalMinutesAsleep": 0, 
+        "totalSleepRecords": 1, 
+        "totalTimeInBed": 9
+    }
+}
