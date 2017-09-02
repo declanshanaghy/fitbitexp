@@ -3,26 +3,29 @@ import logging
 import json
 import os
 import sys
-import time
 
 import fitbit
 import fitbit.exceptions
+import yaml
 
 import common
 
 
-CODE="eca40f166e074bb7786671d1c93cd93a93efddac"
+TOKEN_FILE = "fitbit.token.json"
+CREDS_FILE = "creds.secret.yml"
+
+creds = yaml.load(CREDS_FILE)
+CODE = creds['CODE']
+CLIENT_ID = creds['CLIENT_ID']
+CLIENT_SECRET = creds['CLIENT_SECRET']
 
 REDIRECT_URI="http://localhost"
-CLIENT_ID = "228PQX"
-CLIENT_SECRET = "3b004699d3c526157c0b0adc463d1a99"
 
-TOKEN_FILE = "fitbit.token.json"
 # {
 #     "token_type": "Bearer",
-#     "user_id": "2DRKXH",
-#     "refresh_token": "b3fd282a5194d120a0f6aa179d5e206548f99afa534c7a8b8c9eac6f37ac9997",
-#     "access_token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIyRFJLWEgiLCJhdWQiOiIyMjhQUVgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc29jIHJzZXQgcmFjdCBybG9jIHJ3ZWkgcmhyIHJudXQgcnBybyByc2xlIiwiZXhwIjoxNTAyNDE0NDgzLCJpYXQiOjE1MDIzODU2ODN9.diQoNZrCMHAn3Fbb6SiAgQh0w8kxnVdQwajWWJIWUDI",
+#     "user_id": "23EDC",
+#     "refresh_token": "afa534c...",
+#     "access_token": "deadb33f...",
 #     "scope": ["social", "settings", "activity", "location", "weight", "nutrition", "profile", "heartrate", "sleep"],
 #     "expires_in": 28800, "expires_at": 1502414481.556811
 # }

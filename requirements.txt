@@ -1,1 +1,2 @@
-fitibit=0.3.0
+fitibit==0.3.0
+pyaml==17.8.0
